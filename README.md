@@ -3,7 +3,7 @@
 > **Auteur**: Tim Kleinloog
 > **Laatst geweizigd**: 29 mei 2017
 
-Om ons werk zo efficient mogelijk uit te voeren kwam het idee naar voren voor het begruik van Git bij onder andere Peer Coding.
+Om ons werk zo efficient mogelijk uit te voeren kwam het idee naar voren voor het gebruik van Git bij onder andere Peer Coding.
 Deze pagina gaat stap voor stap iets dieper in op hoe Git(Hub/-Lab) werkt en hoe het gebruikt dient te worden. Onder de verschillende kopjes staat een beknopte toelichting met daaronder links naar de desbetreffende handleidingen op de GiHub en GitLab homepage.
 
 Veel plezier!
