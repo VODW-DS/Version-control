@@ -21,7 +21,7 @@ De Git "way of thinking" is anders. Het maakt snapshots van het project op en sl
 
 ![Git "way of thinking" voor version control systems (VCSs)](https://git-scm.com/book/en/v2/book/01-introduction/images/snapshots.png)
 
-**De kern van Git zijn de drie stages waar een bastand zich in kan bevinden.**
+**De kern van Git zijn de drie stages waar een bestand zich in kan bevinden.**
 
   * Comitted
     * Het bestand is veilig opgeslagen op de locale server
