@@ -39,7 +39,7 @@ De resulterende Git workfow die volgt uit de bovenstaande afbeelding is als volg
   3. "commit" het bestand. Het nieuwe snapshot wordt nu gebruikt in de Git directory.
 
 Een uitgebeidere uitleg over Git vind je [hier](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics).
-Wanneer je GitHub gebruikt zal ook Git gebruikt worden. De eerste keer dat he GitHub en dus ook Git gebruikt is het goed [deze](https://help.github.com/articles/set-up-git/) stappen te volgen om Git te configureren. Voor GitLab gaat het vergelijbaar.
+Wanneer je GitHub gebruikt zal ook Git gebruikt worden. De eerste keer dat he GitHub en dus ook Git gebruikt is het goed [deze](https://help.github.com/articles/set-up-git/) stappen te volgen om Git te configureren. Voor GitLab gaat het vergelijkbaar.
 
 # De Git(Hub/-Lab) Workflow
 
@@ -85,7 +85,7 @@ Verward door al de hippe termen die gebruikt worden in versiebeheer? Hieronder v
 #### Inspiratie
 Een video ter inspiratie. Het laat zien hoe MailChimp GitHub integreert in hun dagelijkse werkzaamheden.
 
-[![GitHub Inspiration](http://img.youtube.com/vi/OeBZUW-9i0M/0.jpg)](https://www.youtube.com/watch?v=OeBZUW-9i0M-Y "GitHub Insiration")
+[![GitHub Inspiration](http://img.youtube.com/vi/OeBZUW-9i0M/0.jpg)](https://www.youtube.com/watch?v=OeBZUW-9i0M-Y "GitHub Inspiration")
 
 
 ![vodw](afbeelding/vodw2.png)
